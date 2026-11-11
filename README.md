@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elahehkazemian
-- 👀 I’m interested in DataScience
+- 👀 I’m working on DataScience project
 - 🌱 I’m currently learning Machin Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? elahekazemian.ds@gmail.com   // kazemian.e2022@gmail.com
